@@ -1,0 +1,46 @@
+
+body {
+    background-color:#2b67e0d5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #000000f3;
+  }
+
+
+
+.ca{
+  background-color: #53ebf3ba;
+  text-align: center;
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #030303f3;
+  
+
+}
+  
+.caa{
+    background-color: #53ebf3ba;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #030303f3;
+    
+  
+  }
+
+  .caaa{
+    background-color:#2b67e000;
+    text-align: center;
+   
+    
+  
+  }
+    
+  img {
+    width: 40%;
+    height: auto;
+    max-width: 2000px;
+   
+  }
+  
+
+  
+
